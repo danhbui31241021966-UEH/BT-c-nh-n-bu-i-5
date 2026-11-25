@@ -14,4 +14,4 @@ Mở `Advanced-FE/index.html` bằng VS Code Live Server để `fetch('products.
 ## Giới hạn thực tế
 Không đăng nhập LMS thay sinh viên, không thể tự chụp dữ liệu có hạn nộp riêng của lớp. E-commerce là bản học tập: giá, số tồn và đánh giá giả định; giỏ hàng lưu cục bộ, không phải đặt hàng hoặc thanh toán thực.
 
-GitHub Pages dự kiến sau khi push:
+GitHub Pages dự kiến sau khi push: https://danhbui31241021966-ueh.github.io/ecommerce-ui-improvement/Advanced-FE/
