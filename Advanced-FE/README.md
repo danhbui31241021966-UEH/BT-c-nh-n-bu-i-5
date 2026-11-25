@@ -1,6 +1,6 @@
 # Advanced Front-End – Chương 6
 
-**Sinh viên:** Nguyễn Văn Kiên · **MSSV dùng trong bài:** 31241024550 (cần xác minh) · **Lớp:** 26C1INF50902701
+**Sinh viên:** Bùi Công Danh · **MSSV dùng trong bài:** 31241021966 (cần xác minh) · **Lớp:** 26C1INF50902702
 
 ## Các phần
 - `shop.html`: VoltLab – danh sách sản phẩm, tìm kiếm, lọc, sắp xếp, badge giảm giá, nhãn NEW/BEST SELLER, progress kho theo Bootstrap 3 markup, giỏ hàng localStorage.
